@@ -34,7 +34,7 @@
         "package": "shx echo '{ \"type\": \"commonjs\" }' > lib/cjs/package.json"
     },
     "dependencies": {
-        "eventemitter3": "^4.0.0"
+        "eventemitter3": "^5.0.1"
     },
     "devDependencies": {
         "shx": "^0.3.4",
