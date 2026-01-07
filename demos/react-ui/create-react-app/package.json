@@ -34,7 +34,7 @@
         "tronweb": "^4.4.0",
         "typescript": "^4.8.4",
         "web-vitals": "^2.1.4",
-        "webpack": "^5.75.0"
+        "webpack": "^5.94.0"
     },
     "scripts": {
         "start": "GENERATE_SOURCEMAP=false react-app-rewired start",
